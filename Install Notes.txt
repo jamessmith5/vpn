@@ -1,0 +1,33 @@
+-=[Install Notes]=-
+
+1] Install The App
+
+2] Copy The Content from Crack Folder to Install Directory
+
+For 32-Bit [C:\Program Files\Betternet\4.1.0]
+
+or
+
+For 64-Bit [C:\Program Files (x86)\Betternet\4.1.0]
+
+3] Run App Normally from Desktop
+
+4] Enjoy This Release!!
+
+By:
+
+SeuPirate
+
+(Courtesy of Jasi2169)
+
+Find my releases on:
+
+https://pirates-forum.org/Thread-SeuPirate-Releases
+
+https://thepiratebay.org/user/SeuPirate/
+
+https://1337x.to/user/SeuPirate/
+
+https://www.demonoid.pw/users/SeuPirate
+
+https://katcr.co/user/SeuPirate/uploads/page/
